@@ -11208,7 +11208,7 @@
             "score": 4.0
         }
     ],
-    "dpElapsedTime": 1457015.419099972,
+    "dpElapsedTime": 14570151.419099972,
     "finalSolution": {
         "bsvRoutes": [],
         "evRoutes": [
@@ -11442,9 +11442,9 @@
             }
         ]
     },
-    "ipElapsedTime": 537.39740000001,
+    "ipElapsedTime": 5376.39740000001,
     "localSearchElapsedTime": 565.5231000000001,
-    "ndpiElapsedTime": 572925.6207,
+    "ndpiElapsedTime": 5729257.6207,
     "repairOperatorUsageHistory": [
         {
             "iteration": 0,
@@ -18447,5 +18447,5 @@
             "score": 4.0
         }
     ],
-    "totalElapsedTime": 4031108.211999997
+    "totalElapsedTime": 20311081.211999997
 }
